@@ -1,6 +1,3 @@
-# MexcalData
-Este es un codigo generado en python para llenar registro de organimos de monitoreos subacuáticos, pensnado en las necesidades del grupo MexCal de la UABC, México.
-
 # 📱 App MexCal - Guía de Uso y Configuración
 
 Bienvenido a la herramienta de gestión y visualización de datos de **MexCal**. Sigue estas instrucciones para asegurar el correcto funcionamiento de la aplicación.
@@ -47,6 +44,11 @@ Dentro de la carpeta de datos, existe una subcarpeta específica para las guías
 
 *   **Integridad de la carpeta:** Mantener la estructura de archivos tal cual se descargó. Si se borra o se mueve alguna carpeta (como `assets` o `datos_app_mexcal`), la aplicación dejará de funcionar.
 *   **Formatos:** Asegúrate de mantener los formatos de archivo ( .xlsx para datos y .png/.jpg para imágenes) para evitar errores de lectura.
+
+---
+
+> ### 📥 **Nota sobre la descarga:**
+> Debido al tamaño del instalador, el archivo `.zip` no se encuentra en el código fuente principal. **Para descargarlo, dirígete a la sección de [Releases](https://github.com/AgustinRGar/MexcalData/releases)** situada en la barra lateral derecha de este repositorio.
 
 ---
 *Desarrollado para el proyecto MexCal, UABC.*
